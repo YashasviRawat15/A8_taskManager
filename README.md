@@ -12,7 +12,8 @@ git clone https://github.com/YashasviRawat15/A8_taskManager.git
 
 cd task-management-api
 
-**Install dependencies**
+**Install dependencies**  
+
 npm install
 
 ## 3. Database Setup
