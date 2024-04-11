@@ -40,6 +40,8 @@ JWT_SECRET=your_secret_key
 npm start
 
 ## 6. Testing
+npm install jest supertest --save-dev  
+
 npm test
 
 ## 7. API Documentation
