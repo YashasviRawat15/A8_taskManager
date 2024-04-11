@@ -12,11 +12,15 @@ MySQL database setup
 git clone https://github.com/YashasviRawat15/A8_taskManager.git
  ```
 
-```bash cd task-management-api```
+```bash 
+cd task-management-api
+```
 
 **Install dependencies**  
 
-```bash npm install```
+```bash
+npm install
+```
 
 ## 3. Database Setup
 
@@ -40,12 +44,18 @@ JWT_SECRET=your_secret_key
 
 ## 5. Running the API
 
-```bash npm start```
+```bash
+npm start
+```
 
 ## 6. Testing
-``` bash npm install jest supertest --save-dev```
+``` bash
+npm install jest supertest --save-dev
+```
 
-``` bash npm test```
+``` bash
+npm test
+```
 
 ## 7. API Documentation
 
