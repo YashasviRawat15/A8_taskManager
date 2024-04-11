@@ -15,16 +15,22 @@ npm install
 
 ## 3. Database Setup
 
-Create a MySQL database named task_management.
+Create a MySQL database named task_management.  
+
 Run the SQL script schema.sql located in the db folder to create the required tables (users and tasks).
 
 ## 4. Environment Variables
 
-Create a .env file in the root directory and add the following:
-DB_HOST=localhost
-DB_USER=root
-DB_PASSWORD=your_mysql_password
-DB_DATABASE=task_management
+Create a .env file in the root directory and add the following:  
+
+DB_HOST=localhost  
+
+DB_USER=root  
+
+DB_PASSWORD=your_mysql_password  
+
+DB_DATABASE=task_management  
+
 JWT_SECRET=your_secret_key
 
 ## 5. Running the API
