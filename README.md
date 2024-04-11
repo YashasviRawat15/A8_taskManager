@@ -1,5 +1,7 @@
 # A8_taskManager
 
+## Objective: Develop a RESTful API using Node.js and MySQL for a simple task management  application.
+
 ## 1. Prerequisites
 
 Node.js installed  
