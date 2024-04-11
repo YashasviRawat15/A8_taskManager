@@ -8,7 +8,9 @@ MySQL database setup
 
 ## 2. Installation
 **Clone the repository**
-```  git clone https://github.com/YashasviRawat15/A8_taskManager.git   ```
+```bash  
+git clone https://github.com/YashasviRawat15/A8_taskManager.git
+ ```
 
 ```bash cd task-management-api```
 
