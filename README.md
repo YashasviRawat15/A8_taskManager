@@ -7,7 +7,7 @@ MySQL database setup
 
 ## 2. Installation
 **Clone the repository**
-git clone https://github.com/your_username/task-management-api.git
+git clone https://github.com/YashasviRawat15/A8_taskManager.git
 cd task-management-api
 
 **Install dependencies**
@@ -34,7 +34,7 @@ npm start
 ## 6. Testing
 npm test
 
-## 7 API Documentation
+## 7. API Documentation
 
 The API documentation can be found in the api_doc.md file.
 
