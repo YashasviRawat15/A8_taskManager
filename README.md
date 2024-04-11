@@ -2,12 +2,14 @@
 
 ## 1. Prerequisites
 
-Node.js installed
+Node.js installed  
+
 MySQL database setup
 
 ## 2. Installation
 **Clone the repository**
-git clone https://github.com/YashasviRawat15/A8_taskManager.git
+git clone https://github.com/YashasviRawat15/A8_taskManager.git  
+
 cd task-management-api
 
 **Install dependencies**
